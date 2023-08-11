@@ -30,6 +30,6 @@ As shown in the figure below, the month with the lowest pressure is the sixth mo
 ![](Output/avg_press_per_month_sorted.png)
 
 ### How many terrestrial days exist in a Martian year?
-Number of days between temperature peaks is around 1500 - 820 = 680 terrestrial days. This is shown in the figure below.
+Number of days between temperature peaks is around 1500 - 820 = 680 terrestrial days (this is within around 1% of the real value of 687 days). This is illustrated in the figure below, where the red vertical lines indicate the location of the peaks used to estimate the duration of a martian year. Trial and error was used to obtain these points.
 
 ![](Output/daily_temperature.png)
