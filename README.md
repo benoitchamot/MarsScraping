@@ -1,5 +1,5 @@
-# scraping-challenge
-Repository for Monash University Bootcamp Module 11
+# Mars Scraping
+Scraping data about Mars news article and martian weather
 
 ## File structure
 - part_1_mars_news.ipynb contains the code for the first deliverable (Mars News)
